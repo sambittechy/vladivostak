@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="credential">
+	<item key="gitSelection" value="0"/>
+	<item key="username" value="sambittechy"/>
+	<item key="password" value="f919da5c596e8676011b89e1c62d6d3ebbf1f252"/>
+	<item key="save" value="true"/>
+</section>
